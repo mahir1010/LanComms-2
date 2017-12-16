@@ -1,1 +1,0 @@
-java -cp "../:../sql.jar" lanComms.server.main.Server $1
