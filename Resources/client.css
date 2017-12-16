@@ -1,0 +1,53 @@
+.root { -fx-focus-color: transparent; }
+.button{
+	-fx-font-size:14px;
+	-fx-font-weight:bold;
+	-fx-background-radius:10px;
+}
+.tab:selected{
+	-fx-font-size:14px;
+	-fx-font-weight:bold;
+	-fx-background-radius:10px 10px 0px 0px;
+    -fx-background-color: #3c3c3c;
+    -fx-tab-min-height :20px;
+    -fx-padding:5px;
+}
+.tab{
+	-fx-background-radius:5px 5px 0px 0px;
+    -fx-background-color: #F5F5F5;
+    -fx-tab-min-height :15px;
+}
+.tab:selected .tab-label{
+	    -fx-text-fill:  #F5F5F5 ;
+}
+.tab-pane .tab-header-area .tab-header-background {
+    -fx-opacity: 0;
+}
+.base{
+	-fx-background-color:#0091EA;
+}
+.menu-bar{
+	-fx-background-color:linear-gradient(to left, #232526 , #414345);
+}
+.menu-bar .label {
+    -fx-font-size: 14 px;
+    -fx-font-weight:bold;
+    -fx-text-fill: #F5F5F5;
+
+}
+.menu-item{
+    -fx-background-color: #424242;
+}
+.menu:hover {
+    -fx-background-color: #424242;
+}
+.menu-item:hover{
+	-fx-background-color:#424242;
+}
+.context-menu {
+    -fx-background-color:#424242;
+    -fx-background-radius: 0 6 6 6, 0 5 5 5, 0 4 4 4;  
+}
+.progress-bar > .track {
+    -fx-background-color: transparent;
+}

@@ -1,0 +1,44 @@
+.chatContainer{
+	-fx-background-color:linear-gradient(to left, #3c3c3c , #414345);
+	-fx-border-color:#3c3c3c;
+	-fx-border-width:2 0 0 0 ;
+}
+.OutGoingMsg{
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #212121;
+    -fx-effect: dropshadow( gaussian , #212121 , 10,0.3,1,1 );
+    -fx-alignment:baseline-left;
+    -fx-padding: 5 20 5 20 ;
+    -fx-background-color:#E0E0E0;
+    -fx-background-radius:5 20 5 20;
+    -fx-border-radius:10;
+    -fx-wrap-text:true;
+}
+.incomingMsg{
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #F5F5F5;
+    -fx-alignment:baseline-left;
+    -fx-padding: 5 20 5 20 ;
+    -fx-background-color:#0091EA;
+    -fx-effect: dropshadow( gaussian , #212121 , 10,0.3,1,1 );
+    -fx-background-radius:5 20 5 20;
+    -fx-border-radius:10;
+    -fx-wrap-text:true;
+}
+.iuserName{
+    -fx-font-size: 10px;
+    -fx-text-fill: #F5F5F5;
+    -fx-effect: dropshadow( gaussian , #212121 , 10,0.3,1,1 );
+    -fx-alignment:bottom-center;
+    -fx-padding: 5 20 0 20 ;
+}
+.ouserName{
+    -fx-font-size: 10px;
+    -fx-text-fill: #F5F5F5;
+    -fx-effect: dropshadow( gaussian , #212121 , 10,0.3,1,1 );
+    -fx-alignment:bottom-center;
+    -fx-padding: 5 20 0 20 ;
+}
+.root { -fx-focus-color: transparent; }
