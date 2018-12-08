@@ -1,6 +1,6 @@
 ## LanComms-2
 LanComms-2 has many new features.
-Following are two of the main new features :
+Following are few of the main new features :
 
  - Security and privacy features (User have to login to access the application)
  - New intuitive login screen with better registration UI .
