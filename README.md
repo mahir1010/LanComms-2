@@ -18,18 +18,18 @@ Steps to run Server:
  2. Run the server with the IP of File Server.
  
  **Login Screen**
-![Login](https://github.com/mahir1010/LanComms-2/blob/Screenshots/ScreenShots/login.png)
+![Login](https://raw.githubusercontent.com/mahir1010/LanComms-2/Screenshots/ScreenShots/login.png)
 **Registration Screen**
-![Registration](https://github.com/mahir1010/LanComms-2/blob/Screenshots/ScreenShots/Register.png)
+![Registration](https://raw.githubusercontent.com/mahir1010/LanComms-2/Screenshots/ScreenShots/Register.png)
 **Change Password**
-![Change Password](https://github.com/mahir1010/LanComms-2/blob/Screenshots/ScreenShots/CantAccess.png)
+![Change Password](https://raw.githubusercontent.com/mahir1010/LanComms-2/Screenshots/ScreenShots/CantAccess.png)
 
 **BroadCast Messages**
-![Broadcast](https://github.com/mahir1010/LanComms-2/blob/Screenshots/ScreenShots/Broadcast.png)
+![Broadcast](https://raw.githubusercontent.com/mahir1010/LanComms-2/Screenshots/ScreenShots/Broadcast.png)
 
 **Sending Driver File**
-![Send EXE](https://github.com/mahir1010/LanComms-2/blob/Screenshots/ScreenShots/SendingEXE.png)
+![Send EXE](https://raw.githubusercontent.com/mahir1010/LanComms-2/Screenshots/ScreenShots/SendingEXE.png)
 
 **Sending Image**
-![Send IMG](https://github.com/mahir1010/LanComms-2/blob/Screenshots/ScreenShots/SendingIMG.png)
+![Send IMG](https://raw.githubusercontent.com/mahir1010/LanComms-2/Screenshots/ScreenShots/SendingIMG.png)
 
