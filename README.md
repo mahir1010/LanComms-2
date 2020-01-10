@@ -6,7 +6,7 @@ Following are few of the main new features :
  - New intuitive login screen with better registration UI .
  - Capability to change password by providing answers to two security questions.
  - Universal File transfer.
- - Separate File Server to reduce the load on computer running the base server hence file sharing capabilities can be disabled without affecting basic chat capabilities.
+ - Separate File Server to reduce the load on the computer running the base server hence file sharing capabilities can be disabled without affecting basic chat capabilities.
  
 
 Steps to run Server:
